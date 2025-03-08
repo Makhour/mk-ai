@@ -1,4 +1,5 @@
 # main.py
+import streamlit as st
 import os
 import whisper
 import torch
