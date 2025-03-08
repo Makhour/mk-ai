@@ -1,1 +1,8 @@
-streamlit
+openai-whisper
+torch
+transformers
+camel-tools
+google-cloud-texttospeech
+sounddevice
+soundfile
+gtts
